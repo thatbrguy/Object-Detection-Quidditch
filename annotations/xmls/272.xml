@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Set3</folder>
+  <filename>272.jpg</filename>
+  <path>/home/br7/Desktop/Frames/Set3/102.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>snitch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>628</xmin>
+      <ymin>515</ymin>
+      <xmax>762</xmax>
+      <ymax>642</ymax>
+    </bndbox>
+  </object>
+</annotation>

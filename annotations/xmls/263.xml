@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>TrainSet1</folder>
+  <filename>263.jpg</filename>
+  <path>/home/br7/Desktop/Frames/TrainSet1/151.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>586</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bludger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>778</xmin>
+      <ymin>44</ymin>
+      <xmax>815</xmax>
+      <ymax>78</ymax>
+    </bndbox>
+  </object>
+</annotation>

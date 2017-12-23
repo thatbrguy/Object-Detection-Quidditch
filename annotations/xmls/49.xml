@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Set3</folder>
+  <filename>49.jpg</filename>
+  <path>/home/br7/Desktop/Frames/Set3/126.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>bludger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>652</xmin>
+      <ymin>374</ymin>
+      <xmax>751</xmax>
+      <ymax>487</ymax>
+    </bndbox>
+  </object>
+</annotation>

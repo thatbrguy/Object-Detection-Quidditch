@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>TrainSet1</folder>
+  <filename>162.jpg</filename>
+  <path>/home/br7/Desktop/Frames/TrainSet1/167.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>586</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>quaffle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>571</xmin>
+      <ymin>143</ymin>
+      <xmax>676</xmax>
+      <ymax>229</ymax>
+    </bndbox>
+  </object>
+</annotation>

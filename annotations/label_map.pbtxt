@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'snitch'
+}
+
+item {
+  id: 2
+  name: 'quaffle'
+}
+
+item {
+  id: 3
+  name: 'bludger'
+}

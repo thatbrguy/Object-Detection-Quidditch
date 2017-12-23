@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>TrainSet2</folder>
+  <filename>113.jpg</filename>
+  <path>/home/br7/Desktop/Frames/TrainSet2/225.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>716</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>snitch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>380</xmin>
+      <ymin>189</ymin>
+      <xmax>409</xmax>
+      <ymax>215</ymax>
+    </bndbox>
+  </object>
+</annotation>
